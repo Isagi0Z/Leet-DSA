@@ -6,34 +6,34 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0011-container-with-most-water/) | Medium |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0011-container-with-most-water/) | Medium |
-| [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
-| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0042-trapping-rain-water/) | Hard |
+| [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/0011-container-with-most-water/) | Medium |
+| [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
-| [0182-duplicate-emails](https://github.com/Isagi0Z/Leet-DSA/tree/main/0182-duplicate-emails/) | Easy |
-| [1757-recyclable-and-low-fat-products](https://github.com/Isagi0Z/Leet-DSA/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
+| [0182-duplicate-emails](https://github.com/Isagi0Z/Leet-DSA/tree/main/sql/0182-duplicate-emails/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/Isagi0Z/Leet-DSA/tree/main/sql/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
