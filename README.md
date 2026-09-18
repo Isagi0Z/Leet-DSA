@@ -9,12 +9,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
+| [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,4 +45,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Isagi0Z/Leet-DSA/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1683-invalid-tweets](https://github.com/Isagi0Z/Leet-DSA/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Isagi0Z/Leet-DSA/tree/main/sql/1757-recyclable-and-low-fat-products/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
