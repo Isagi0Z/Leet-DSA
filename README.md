@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Isagi0Z/Leet-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Isagi0Z/Leet-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 ## Divide and Conquer
@@ -115,9 +116,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Isagi0Z/Leet-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Isagi0Z/Leet-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/Isagi0Z/Leet-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Isagi0Z/Leet-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 <!---LeetCode Topics End-->
