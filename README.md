@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Isagi0Z/Leet-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0704-binary-search](https://github.com/Isagi0Z/Leet-DSA/tree/main/0704-binary-search/) | Easy |
 | [0912-sort-an-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0912-sort-an-array/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0704-binary-search](https://github.com/Isagi0Z/Leet-DSA/tree/main/0704-binary-search/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
