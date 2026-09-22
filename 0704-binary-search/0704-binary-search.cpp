@@ -6,7 +6,7 @@ public:
         int end=n-1;
         
         while(beg<=end){
-        int mid=(beg+end)>>1;
+        int mid=(beg+end)/2;
         if(nums[mid]==target){
             return mid;
         }
