@@ -1,51 +1,32 @@
 class Solution {
 public:
+    int partition(vector<int> &nums,int low,int high){
+        int pivot=nums[low];
+        int i=low;
+        int j=high;
+        while(i<j){
+            while(nums[i]<=pivot && i<=high-1){
+                i++;
+            }
+            while(nums[j]>pivot && j>=low+1){
+                j--;
+            }
+            if(i<j){
+                swap(nums[i],nums[j]);
+            }
+        }
+        swap(nums[low],nums[j]);
+        return j;
+    }
+    void qs(vector <int> &nums,int low,int high){
+        if(low<high){
+            int pindex=partition(nums,low,high);
+            qs(nums,low,pindex-1);
+            qs(nums,pindex+1,high);
+        }
+    }
     vector<int> sortArray(vector<int> nums){
-        int n=nums.size();
-        mergeSort(nums,0,n-1);
+        qs(nums,0,nums.size()-1);
         return nums;
-    }
-
-    void mergeSort(vector<int>& nums, int beg, int end) {
-        
-        int mid=(beg+end)/2;
-        if(beg<end){
-            mergeSort(nums,beg,mid);
-            mergeSort(nums,mid+1,end);
-            merge(nums,beg,mid,end);
-        }
-        
-    }
-
-    void merge(vector<int>& nums,int beg,int mid,int end){
-        vector<int> temp;
-        int i=beg,j=mid+1;
-        while(i<=mid && j<=end){
-            if(nums[i]<nums[j]){
-                temp.push_back(nums[i]);
-                i++;
-            }
-            else{
-                temp.push_back(nums[j]);
-                j++;
-            }
-        }
-        if(i>mid){
-            while(j<=end){
-                temp.push_back(nums[j]);
-                j++;
-            }
-        }
-        else{
-            while(i<=mid){
-                temp.push_back(nums[i]);
-                i++;
-            }
-        }
-        int k=0;
-        while(k<temp.size()){
-            nums[beg+k]=temp[k];
-            k++;
-        }
     }
 };
