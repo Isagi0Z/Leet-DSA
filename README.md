@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0039-combination-sum](https://github.com/Isagi0Z/Leet-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Isagi0Z/Leet-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -131,4 +132,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/Isagi0Z/Leet-DSA/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
