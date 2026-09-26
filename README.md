@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
 | [0075-sort-colors](https://github.com/Isagi0Z/Leet-DSA/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Isagi0Z/Leet-DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0090-subsets-ii/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Isagi0Z/Leet-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/Isagi0Z/Leet-DSA/tree/main/0704-binary-search/) | Easy |
@@ -135,8 +136,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0039-combination-sum](https://github.com/Isagi0Z/Leet-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0078-subsets](https://github.com/Isagi0Z/Leet-DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Isagi0Z/Leet-DSA/tree/main/0078-subsets/) | Medium |
+| [0090-subsets-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0090-subsets-ii/) | Medium |
 <!---LeetCode Topics End-->
