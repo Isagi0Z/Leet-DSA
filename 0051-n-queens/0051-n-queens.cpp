@@ -1,45 +1,24 @@
 class Solution {
 public:
-    bool issafe(int row,int col,vector<string>& board,int n){
-        int duprow=row;
-        int dupcol=col;
-        while(row>=0 && col>=0){
-            if(board[row][col]=='Q'){
-                return false;
-            }
-            row--;
-            col--;
-        }
-        row=duprow;
-        col=dupcol;
-        while(col>=0){
-            if(board[row][col]=='Q'){
-                return false;
-            }
-            col--;
-        }
-        row=duprow;
-        col=dupcol;
-        while(row<n && col>=0){
-            if(board[row][col]=='Q'){
-                return false;
-            }
-            row++;
-            col--;
-        }
-        return true;
-    }
+    
 
-    void solve(int col,vector<string>& board,vector<vector<string>>& ans,int n){
+    void solve(int col,vector<string>& board,vector<int>& leftrow,vector<int>& lowerdiag,vector<int>& upperdiag,vector<vector<string>>& ans,int n){
         if(col==n){
             ans.push_back(board);
             return;
         }
         for(int row=0;row<n;row++){
-            if(issafe(row,col,board,n)){
+            if(leftrow[row]==0 && lowerdiag[row+col]==0 && upperdiag[n-1 + col-row]==0){
+
                 board[row][col]='Q';
-                solve(col+1,board,ans,n);
+                leftrow[row]=1 ;
+                lowerdiag[row+col]=1;
+                upperdiag[n-1 + col-row]=1;
+                solve(col+1,board,leftrow,lowerdiag,upperdiag,ans,n);
                 board[row][col]='.';
+                leftrow[row]=0 ;
+                lowerdiag[row+col]=0;
+                upperdiag[n-1 + col-row]=0;
             }
         }
     }
@@ -51,7 +30,8 @@ public:
         for(int i=0;i<n;i++){
             board[i]=s;
         }
-        solve(0,board,ans,n);
+        vector<int> leftrow(n,0), lowerdiag(2*n-1,0),upperdiag(2*n-1,0);
+        solve(0,board,leftrow,lowerdiag,upperdiag,ans,n);
         return ans;
     }
 };
