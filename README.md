@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0037-sudoku-solver](https://github.com/Isagi0Z/Leet-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Isagi0Z/Leet-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
@@ -77,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Isagi0Z/Leet-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/Isagi0Z/Leet-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/Isagi0Z/Leet-DSA/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 ## Divide and Conquer
@@ -135,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Isagi0Z/Leet-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Isagi0Z/Leet-DSA/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Isagi0Z/Leet-DSA/tree/main/0046-permutations/) | Medium |
@@ -149,5 +152,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Algorithm X
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Isagi0Z/Leet-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0051-n-queens](https://github.com/Isagi0Z/Leet-DSA/tree/main/0051-n-queens/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Isagi0Z/Leet-DSA/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/Isagi0Z/Leet-DSA/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
