@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0011-container-with-most-water/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Isagi0Z/Leet-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/Isagi0Z/Leet-DSA/tree/main/0037-sudoku-solver/) | Hard |
 | [0039-combination-sum](https://github.com/Isagi0Z/Leet-DSA/tree/main/0039-combination-sum/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Isagi0Z/Leet-DSA/tree/main/0035-search-insert-position/) | Easy |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Isagi0Z/Leet-DSA/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0704-binary-search](https://github.com/Isagi0Z/Leet-DSA/tree/main/0704-binary-search/) | Easy |
