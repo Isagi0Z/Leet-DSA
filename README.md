@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Isagi0Z/Leet-DSA/tree/main/dsa/0042-trapping-rain-water/) | Hard |
+| [0131-palindrome-partitioning](https://github.com/Isagi0Z/Leet-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -129,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Isagi0Z/Leet-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Isagi0Z/Leet-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/Isagi0Z/Leet-DSA/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -148,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/Isagi0Z/Leet-DSA/tree/main/0051-n-queens/) | Hard |
 | [0078-subsets](https://github.com/Isagi0Z/Leet-DSA/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/Isagi0Z/Leet-DSA/tree/main/0090-subsets-ii/) | Medium |
+| [0131-palindrome-partitioning](https://github.com/Isagi0Z/Leet-DSA/tree/main/0131-palindrome-partitioning/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
